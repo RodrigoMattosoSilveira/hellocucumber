@@ -6,6 +6,13 @@
   "author": "Rodrigo Silveira",
   "license": "MIT",
   "private": true,
+  "repository": {
+     "type": "git",
+     "url": "git@github.com:RodrigoMattosoSilveira/hellocucumber.git"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  }
   "devDependencies": {
     "cucumber": "^5.1.0"
   }
