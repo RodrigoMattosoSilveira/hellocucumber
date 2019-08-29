@@ -1,0 +1,9 @@
+{
+  "name": "hellocucumber",
+  "version": "0.0.1",
+  "description": "Learning Cucumber",
+  "main": "index.js",
+  "author": "Rodrigo Silveira",
+  "license": "MIT",
+  "private": true
+}
